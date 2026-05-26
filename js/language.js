@@ -36,7 +36,9 @@ let lang = {
         button3: "اشترك الآن",
 
         pricinglli1: "برنامج تدريبي مخصص",
-        pricinglli2: "12 حصة شهريًا",
+        pricinglli2: "خطة تغذية كاملة",
+        pricinglli2256: "إرشادات تغذية أساسية",
+        pricinglli2289: "12 جلسة / شهريًا",
         pricinglli3: "متابعة أسبوعية",
         pricinglli4: "خطة غذائية كاملة",
         pricinglli5: "دعم يومي",
@@ -123,7 +125,7 @@ let lang = {
         accordion: "الأسئلة الشائعة",
         footer: "التذييل",
         Testimonial: "آراء العملاء",
-
+        booksnav: "الكتب",
         // ================= BOOK HOME =================
 
         bookhome1: "طوّر جسمك بمعرفة حقيقية في اللياقة",
@@ -239,7 +241,9 @@ let lang = {
         button3: "Purchase Now",
 
         pricinglli1: "Custom Training Program",
-        pricinglli2: "12 Sessions / Month",
+        pricinglli2: "Full Nutrition Plan",
+        pricinglli2256: "Basic Nutrition Guidance",
+        pricinglli2289: "12 Sessions / Month",
         pricinglli3: "Weekly Check-ins",
         pricinglli4: "Full Nutrition Plan",
         pricinglli5: "Daily Support",
@@ -377,6 +381,7 @@ let lang = {
         modalDesc: "Select the language you prefer before completing your purchase.",
         arabicVersion: "🇪🇬 Arabic Version",
         englishVersion: "🇺🇸 English Version",
+        booksnav: "Books",
     }
 };
 document.addEventListener("DOMContentLoaded", () => {
